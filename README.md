@@ -66,8 +66,8 @@ Se diseñaron y ejecutaron cuatro casos de prueba relacionados con la funcionali
 - Casos bloqueados (Blocked): [0].
 - Casos pendientes (Not Run): [0].
 
-Los resultados permiten identificar el comportamiento observado durante las pruebas y
-documentar cualquier diferencia entre el resultado esperado y el obtenido.
+
+
 
 
 
